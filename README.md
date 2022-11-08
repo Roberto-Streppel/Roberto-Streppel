@@ -1,5 +1,5 @@
 - 👋 Olá, Devs, eu sou  @Roberto-Streppel
-- 👀 Gosto de música, Ler e conversar com pessoas interesantes!
+- 👀 Gosto de música, Ler e conversar com pessoas interessantes!
 - 🌱  Estou estudando Javascript, HTML5, CSS3 e Java
 - 💞️ Desejo colaborar com outros devs FrontEnd
 - 📫 Podem me escrever: robertostreppel@outlook.com
